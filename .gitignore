@@ -1,0 +1,12 @@
+venv/
+venv310/
+db.sqlite3
+media/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+*.rar
+*.zip
+*.7z
+result[0][0]
